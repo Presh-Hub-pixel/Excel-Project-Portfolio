@@ -14,10 +14,15 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 ## 📌 Table of Contents 🗂️
 
 1️⃣ 👩‍💻 About Me
+
 2️⃣ 📊 Project Overview – Amazon Sales Dashboard
+
 3️⃣ 📊 Project Overview – US Superstore Analysis Dashboard
+
 4️⃣ 🛠 Technologies & Tools
+
 5️⃣ 🔐 Excel Best Practices Applied
+
 6️⃣ 📩 Contact Information
 
 ---
@@ -30,9 +35,13 @@ I am passionate about transforming raw datasets into actionable insights using E
 
 🔹 **Professional Strengths**
 ✔ Data Cleaning & Transformation
+
 ✔ Dashboard Development & KPI Reporting
+
 ✔ Business Intelligence & Data Storytelling
+
 ✔ Advanced Excel Functions & Automation
+
 ✔ Data Visualization for Decision-Making
 
 ---
