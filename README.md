@@ -15,6 +15,7 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 
 1️⃣ 👩‍💻 About Me
 
+
 2️⃣ 📊 Project Overview – Amazon Sales Dashboard
 
 3️⃣ 📊 Project Overview – US Superstore Analysis Dashboard
