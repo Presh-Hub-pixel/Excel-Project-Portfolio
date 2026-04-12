@@ -8,18 +8,18 @@
 
 ## 📌 Table of Contents
 
-📊 Project Overview
-📌 Business Use Case
-📂 Data Sources
-🛠 Tools & Technologies
-📈 KPIs Monitored
-🧹 Data Cleaning
-📈 Key Insights
-🎯 Recommendations
-⚠️ Limitations
-📊 Interact with the Dashboard
-🖼️ Dashboard Preview
-✍️ Author
+- 📊 [Project Overview](#project-overview)
+- 📌 [Business Use Case](#business-use-case)
+- 📂 [Data Sources](#data-sources)
+- 🛠 [Tools & Technologies](#tools--technologies)
+- 📈 [KPIs Monitored](#kpis-monitored)
+- 🧹 [Data Cleaning](#data-cleaning)
+- 📈 [Key Insights](#key-insights)
+- 🎯 [Recommendations](#recommendations)
+- ⚠️ [Limitations](#limitations)
+- 📊 [Interact with the Dashboard](#interact-with-the-dashboard)
+- 🖼️ [Dashboard Preview](#dashboard-preview)
+- ✍️ [Author](#author)
 
 ---
 
