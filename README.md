@@ -61,7 +61,8 @@ This project presents a comprehensive analysis of Amazon sales performance using
 
 The objective is to convert raw transactional data into an interactive, executive-ready dashboard that supports strategic decision-making.
 
-🔗 **View Dashboard:** [Amazon Sales Dashboard](INSERT_AMAZON_DASHBOARD_LINK_HERE)
+🔗 **View Dashboard:**
+https://github.com/Presh-Hub-pixel/amazon-sales-dashboard
 
 🔍 **Key Features**
 
@@ -87,7 +88,8 @@ The objective is to convert raw transactional data into an interactive, executiv
 
 This project analyzes the **US Superstore dataset** using Microsoft Excel to uncover key business insights around sales, profit, and customer behavior. The dashboard highlights performance across regions, product categories, and shipping segments.
 
-🔗 **View Dashboard:** [US Superstore Dashboard](INSERT_US_SUPERSTORE_DASHBOARD_LINK_HERE)
+🔗 **View Dashboard:**
+https://github.com/Presh-Hub-pixel/us-superstore-sales-dashboard
 
 🔍 **Key Features**
 
