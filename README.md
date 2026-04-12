@@ -13,18 +13,17 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 
 ## 📌 Table of Contents 🗂️
 
-1️⃣ 👩‍💻 About Me
+1️⃣ 👩‍💻 [About Me](#about-me)
 
+2️⃣ 📊 [Project Overview – Amazon Sales Dashboard](#project-overview-amazon-sales-dashboard)
 
-2️⃣ 📊 Project Overview – Amazon Sales Dashboard
+3️⃣ 📊 [Project Overview – US Superstore Analysis Dashboard](#project-overview-us-superstore-analysis-dashboard)
 
-3️⃣ 📊 Project Overview – US Superstore Analysis Dashboard
+4️⃣ 🛠 [Technologies & Tools](#technologies--tools)
 
-4️⃣ 🛠 Technologies & Tools
+5️⃣ 🔐 [Excel Best Practices Applied](#excel-best-practices-applied)
 
-5️⃣ 🔐 Excel Best Practices Applied
-
-6️⃣ 📩 Contact Information
+6️⃣ 📩 [Contact Information](#contact-information)
 
 ---
 
