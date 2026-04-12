@@ -119,9 +119,13 @@ This project analyzes the **US Superstore dataset** using Microsoft Excel to unc
 ## 🔐 Excel Best Practices Applied
 
 ✔ Structured Excel tables for scalable analysis
+
 ✔ Power Query for efficient data cleaning and transformation
+
 ✔ Optimized formulas for performance improvement
+
 ✔ Clear KPI definitions and dashboard structuring
+
 ✔ Professional formatting and visual consistency
 
 ---
