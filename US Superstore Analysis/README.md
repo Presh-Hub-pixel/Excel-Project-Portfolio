@@ -1,35 +1,34 @@
 
 ---
 
-# 🛍️ US Superstore Sales Performance Dashboard
+# 📦 Amazon Sales Performance Dashboard – 2025
 
 ## 📌 Table of Contents
 
-📊 Project Overview
+* [Project Overview](#project-overview)
+  
+* [Business Use Case](#business-use-case)
+  
+* [Data Sources](#data-sources)
+  
+* [Tools & Technologies](#tools--technologies)
+  
+* [KPIs Monitored](#kpis-monitored)
+  
+* [Data Cleaning](#data-cleaning)
+  
+* [Key Insights](#key-insights)
+  
+* [Recommendations](#recommendations)
+  
+* [Limitations](#limitations)
+  
+* [Interact with the Dashboard](#interact-with-the-dashboard)
+  
+* [Dashboard Preview](#dashboard-preview)
+  
+* [Author](#author)
 
-📌 Business Use Case
-
-📂 Data Sources
-
-📊 Project Overview
-📌 Business Use Case
-📂 Data Sources
-🛠 Tools & Technologies
-📈 KPIs Monitored
-🧹 Data Cleaning
-📈 Key Insights
-🎯 Recommendations
-⚠️ Limitations
-📊 Interact with the Dashboard
-🖼️ Dashboard Preview
-✍️ Author
-📈 Key Insights
-
-🎯 Recommendations
-⚠️ Limitations
-📊 Interact with the Dashboard
-🖼️ Dashboard Preview
-✍️ Author
 
 ---
 
@@ -130,7 +129,7 @@ These steps ensured accuracy and reliability of analysis.
 
 📊🏢 At a more detailed level, sub-categories such as Office Machines and Chairs outperform others, while categories like Binders and Accessories lag behind, highlighting an imbalance in product demand and performance.
 
-🎯 Recommendations
+## 🎯 Recommendations
 
 🚀💰 Improving profitability should be a priority by optimizing pricing strategies, reducing operational costs, and focusing on high-margin products to strengthen the current 12% profit margin.
 
@@ -145,154 +144,6 @@ These steps ensured accuracy and reliability of analysis.
 📊📈 A more refined product strategy is needed, where top-performing sub-categories are leveraged for upselling and cross-selling, while weaker segments are either improved or deprioritized.
 
 📦⚙️ Strengthening inventory and supply chain management will help ensure that high-demand products are always available, preventing lost sales opportunities and improving overall operational efficiency.
----Yes — and you’re **very close already**. GitHub allows this using **anchor links** that connect your Table of Contents to each section.
-
-Below is a **perfectly working, clean version** you can copy. I’ve corrected small anchor issues (especially emojis — they can break links if not handled well).
-
----
-
-# 📦 Amazon Sales Performance Dashboard – 2025
-
-## 📌 Table of Contents
-
-* [Project Overview](#project-overview)
-* [Business Use Case](#business-use-case)
-* [Data Sources](#data-sources)
-* [Tools & Technologies](#tools--technologies)
-* [KPIs Monitored](#kpis-monitored)
-* [Data Cleaning](#data-cleaning)
-* [Key Insights](#key-insights)
-* [Recommendations](#recommendations)
-* [Limitations](#limitations)
-* [Interact with the Dashboard](#interact-with-the-dashboard)
-* [Dashboard Preview](#dashboard-preview)
-* [Author](#author)
-
----
-
-## Project Overview
-
-🛍️ **Understanding Amazon's Sales Performance**
-
-Your content here...
-
----
-
-## Business Use Case
-
-Your content here...
-
----
-
-## Data Sources
-
-Your content here...
-
----
-
-## Tools & Technologies
-
-Your content here...
-
----
-
-## KPIs Monitored
-
-Your content here...
-
----
-
-## Data Cleaning
-
-Your content here...
-
----
-
-## Key Insights
-
-Your content here...
-
----
-
-## Recommendations
-
-Your content here...
-
----
-
-## Limitations
-
-Your content here...
-
----
-
-## Interact with the Dashboard
-
-Your content here...
-
----
-
-## Dashboard Preview
-
-Your content here...
-
----
-
-## Author
-
-Your details here...
-
----
-
-## ✅ Why This Works
-
-* GitHub automatically converts headings like:
-  `## Project Overview` → `#project-overview`
-
-* Rules GitHub uses:
-
-  * Lowercase everything
-  * Replace spaces with `-`
-  * Remove emojis/special characters
-
----
-
-## ⚠️ Common Mistake (You Were Almost There)
-
-This ❌ can break:
-
-```
-[📊 Project Overview](#-project-overview)
-```
-
-This ✅ works perfectly:
-
-```
-[Project Overview](#project-overview)
-```
-
----
-
-## 💡 Pro Tip (Very Important)
-
-You can still keep emojis in your headings like this:
-
-```
-## 📊 Project Overview
-```
-
-But your link MUST be:
-
-```
-#project-overview
-```
-
----
-
-If you want, I can:
-✅ Fix your **entire README with perfect clickable links + styling**
-✅ Add **GitHub badges (Excel, Data Analyst, Views)**
-✅ Turn it into a **premium portfolio README recruiters love**
 
 
 ## ⚠️ Limitations
