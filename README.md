@@ -133,7 +133,8 @@ This project analyzes the **US Superstore dataset** using Microsoft Excel to unc
 
 ## 📩 Contact Information
 
-**Rotimi Precious Eniola**
+**Rotimi Precious Eniola
+
 Data Analyst | Excel Data Specialist | Business Intelligence Enthusiast
 
 📧 Email: [rotimipreciousenny04@gmail.com](mailto:rotimipreciousenny04@gmail.com)
