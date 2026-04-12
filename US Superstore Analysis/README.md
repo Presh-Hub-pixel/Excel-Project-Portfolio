@@ -1,7 +1,9 @@
 
 ---
 
-# 📦 Amazon Sales Performance Dashboard – 2025
+## 🛍️ US Superstore Sales Analysis Dashboard
+
+A comprehensive Excel dashboard analyzing retail sales performance, profitability, and customer trends across the US Superstore dataset.
 
 ## 📌 Table of Contents
 
@@ -164,7 +166,6 @@ These steps ensured accuracy and reliability of analysis.
 
 🧾📉 The absence of customer behavior metrics (e.g., repeat purchase rate, customer lifetime value) limits a full understanding of long-term customer value and retention performance.
 
-⚖️📌 The analysis assumes data accuracy and completeness; any underlying data quality issues (missing, inconsistent, or biased data) could significantly affect the reliability of insights and recommendations.
 ---
 
 ## 📊 Interact with the Dashboard
