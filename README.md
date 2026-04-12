@@ -34,6 +34,7 @@ Hello! I'm **Rotimi Precious Eniola**, a Data Analyst | Excel Data Specialist | 
 I am passionate about transforming raw datasets into actionable insights using Excel and analytical tools. My work focuses on data cleaning, visualization, dashboard development, and business intelligence reporting that supports data-driven decision-making.
 
 🔹 **Professional Strengths**
+
 ✔ Data Cleaning & Transformation
 
 ✔ Dashboard Development & KPI Reporting
