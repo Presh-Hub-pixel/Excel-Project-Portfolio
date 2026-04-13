@@ -24,6 +24,7 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 5️⃣ 🔐 [Excel Best Practices Applied](#excel-best-practices-applied)
 
 6️⃣ 📩 [Contact Information](#contact-information)
+
 ---
 
 ## 👩‍💻 About Me
