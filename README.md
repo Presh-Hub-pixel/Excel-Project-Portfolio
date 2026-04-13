@@ -62,7 +62,7 @@ This project presents a comprehensive analysis of Amazon sales performance using
 The objective is to convert raw transactional data into an interactive, executive-ready dashboard that supports strategic decision-making.
 
 🔗 **View Dashboard:**
-https://github.com/Presh-Hub-pixel/amazon-sales-dashboard
+[Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard/)
 
 🔍 **Key Features**
 
