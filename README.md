@@ -15,9 +15,9 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 
 1️⃣ 👩‍💻 [About Me](#about-me)
 
-2️⃣ 📊 [Project Overview – Amazon Sales Dashboard](#project-overview-amazon-sales-dashboard)
+2️⃣ 📊 [Project Overview – [Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard/)
 
-3️⃣ 📊 [Project Overview – US Superstore Analysis Dashboard](#project-overview-us-superstore-analysis-dashboard)
+3️⃣ 📊 [Project Overview – US Superstore Analysis Dashboard][US Superstore Analysis](./US%20Superstore%20Analysis/)
 
 4️⃣ 🛠 [Technologies & Tools](#technologies--tools)
 
@@ -89,8 +89,7 @@ The objective is to convert raw transactional data into an interactive, executiv
 This project analyzes the **US Superstore dataset** using Microsoft Excel to uncover key business insights around sales, profit, and customer behavior. The dashboard highlights performance across regions, product categories, and shipping segments.
 
 🔗 **View Dashboard:**
-https://github.com/Presh-Hub-pixel/us-superstore-sales-dashboard
-
+[US Superstore Analysis](./US%20Superstore%20Analysis/)
 🔍 **Key Features**
 
 * Sales and profit analysis by region
