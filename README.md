@@ -15,16 +15,15 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 
 1️⃣ 👩‍💻 [About Me](#about-me)
 
-2️⃣ 📊 [Project Overview – [Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard/)
+2️⃣ 📊 [Project Overview – Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard/)
 
-3️⃣ 📊 [Project Overview – US Superstore Analysis Dashboard][US Superstore Analysis](./US%20Superstore%20Analysis/)
+3️⃣ 📊 [Project Overview – US Superstore Analysis Dashboard](./US%20Superstore%20Analysis/)
 
 4️⃣ 🛠 [Technologies & Tools](#technologies--tools)
 
 5️⃣ 🔐 [Excel Best Practices Applied](#excel-best-practices-applied)
 
 6️⃣ 📩 [Contact Information](#contact-information)
-
 ---
 
 ## 👩‍💻 About Me
@@ -90,6 +89,7 @@ This project analyzes the **US Superstore dataset** using Microsoft Excel to unc
 
 🔗 **View Dashboard:**
 [US Superstore Analysis](./US%20Superstore%20Analysis/)
+
 🔍 **Key Features**
 
 * Sales and profit analysis by region
