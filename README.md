@@ -15,7 +15,7 @@ As a Data Analyst, I focus on combining analytical thinking with data visualizat
 
 1️⃣ 👩‍💻 [About Me](#about-me)
 
-2️⃣ 📊 [Project Overview – Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard/)
+2️⃣ 📊 [Project Overview – [Amazon Sales Performance Dashboard](./Amazon%20Sales%20Dashboard/)
 
 3️⃣ 📊 [Project Overview – US Superstore Analysis Dashboard](./US%20Superstore%20Analysis/)
 
@@ -61,7 +61,7 @@ This project presents a comprehensive analysis of Amazon sales performance using
 The objective is to convert raw transactional data into an interactive, executive-ready dashboard that supports strategic decision-making.
 
 🔗 **View Dashboard:**
-[Amazon Sales Dashboard](./Amazon%20Sales%20Dashboard/)
+[Amazon Sales Performance Dashboard](./Amazon%20Sales%20Dashboard/)
 
 🔍 **Key Features**
 
